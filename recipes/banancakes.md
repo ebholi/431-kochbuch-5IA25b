@@ -2,7 +2,7 @@
 # ── Basis ────────────────────────────────────────────────
 title: "Banancakes"
 date: 2026-06-25
-draft: true
+draft: false
 description: "Pfannkuchen kombiniert mit Bananen - kann ja nur gut werden!"
 image: "images/recipes/spaghetti-bolognese.svg"
 
