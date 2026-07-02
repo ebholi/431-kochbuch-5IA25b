@@ -21,10 +21,10 @@ cook_time: "15 Min."
 ingredients:
   - "1 Banane"
   - "1 Ei"
-  - "100g Mehl"
+  - "75g Mehl"
   - "Zimt Pulver"
   - "Eine Prise Salz"
-  - "25ml Milch"
+  - "50ml Milch"
   - "Wenig Butter"
 
 # ── Zubereitung ──────────────────────────────────────────
@@ -46,11 +46,13 @@ instructions:
 
 Dies ist das Banancake-Rezept meiner Schwester, welches ich ohne ihrem Erlaubnis weitergebe.
 Auf die Banancakes kann man gut Nutella, Zimtzucker, Marmelade oder Puderzucker überstreichen.
+Auch ohne Aufstrich schmecken die Banancakes köstlich.
 
 ## Tipps
 
 - Am besten macht man aus dem Teig drei mittelgrosse Banancakes.
 - Der Teig sollte eher dickflüssig sein. Falls dies dir nicht gefällt, kannst du mehr oder weniger Milch dazugeben.
+- Falls mehrere in der Pfanne Banancakes zusammenfliessen, eine Minute warten und dann mit einer Spatel auseinanderbringen.
 
 ## Variationen
 
