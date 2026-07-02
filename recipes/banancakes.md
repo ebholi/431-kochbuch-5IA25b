@@ -4,7 +4,7 @@ title: "Banancakes"
 date: 2026-06-25
 draft: false
 description: "Pfannkuchen kombiniert mit Bananen - kann ja nur gut werden!"
-image: "images/recipes/spaghetti-bolognese.svg"
+image: "images/recipes/banancakes.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Dessert", "Frühstück", "Süss"]
