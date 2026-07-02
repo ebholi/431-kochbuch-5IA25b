@@ -40,7 +40,7 @@ instructions:
   - "Dieses Verfahren wird wiederholt, bis der Teig aufgebraucht ist."
 ---
 
-> "Das Leben ist schöner mit Banancakes und wenn man nirgendwo hin muss." - ChatGPT
+> "Life is harder when working with Pull Requests, Banancakes make it easer." - Oliver
 
 ## Über dieses Rezept
 
