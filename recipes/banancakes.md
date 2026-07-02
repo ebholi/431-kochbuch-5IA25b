@@ -44,7 +44,7 @@ instructions:
 
 ## Über dieses Rezept
 
-Dies ist das Banancake-Rezept meiner Schwester, welches ich ohne ihrem Erlaubnis weitergebe.
+Dies ist das Banancake-Rezept meiner Schwester, welches ich ohne ihre Erlaubnis weitergebe.
 Auf die Banancakes kann man gut Nutella, Zimtzucker, Marmelade oder Puderzucker überstreichen.
 Auch ohne Aufstrich schmecken die Banancakes köstlich.
 
